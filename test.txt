@@ -1,2 +1,6 @@
 test upload
+<<<<<<< HEAD
 Updating with Bash...
+=======
+Update with Tortoise…
+>>>>>>> 1c9fa7c9b5b7c270b6f85f4c0601fedb9f0c4918
